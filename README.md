@@ -35,7 +35,8 @@
 ## ⚙️ Kurulum ve Çalıştırma
 
 **1. Tesseract OCR Kurulumu:** 
-Bilgisayarınızda Tesseract OCR programının kurulu olması gerekmektedir (Varsayılan Windows yolu: `C:\Program Files\Tesseract-OCR\tesseract.exe`).
+Bilgisayarınızda Tesseract OCR programının kurulu olması gerekmektedir 
+(Varsayılan Windows yolu: `C:\Program Files\Tesseract-OCR\tesseract.exe`).
 
 **2. Projeyi Klonlayın:**
 
