@@ -53,6 +53,3 @@ Bilgisayarınızda Tesseract OCR programının kurulu olması gerekmektedir (Var
 
     python main.py
 
-## 👨‍💻 Geliştirici
-
-**Abidin Işık Yılmazer**
