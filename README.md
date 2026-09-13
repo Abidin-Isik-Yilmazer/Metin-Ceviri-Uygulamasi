@@ -41,3 +41,18 @@ Bilgisayarınızda Tesseract OCR programının kurulu olması gerekmektedir (Var
 ```bash
 git clone [https://github.com/Abidin-Isik-Yilmazer/Metin-Ceviri-Uygulamasi.git](https://github.com/Abidin-Isik-Yilmazer/Metin-Ceviri-Uygulamasi.git)
 cd Metin-Ceviri-Uygulamasi
+```
+
+**3. Gerekli Kütüphaneleri Yükleyin:**
+```bash
+pip install customtkinter opencv-python pytesseract deep-translator numpy
+```
+
+**4. Uygulamayı Başlatın:**
+```bash
+python main.py
+```
+
+## 👨‍💻 Geliştirici
+
+**Abidin Işık Yılmazer**
